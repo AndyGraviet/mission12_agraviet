@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Gk16+2HbBa7D/hGkfB47ZW5MBo3+VVqJ63lZmAJbBYc0iefMyWBFVXNnTBDF/od0log1dUv9CZpThDcThw4qxw==",
+  "success": true,
+  "projectFilePath": "/Users/andrewgraviet/Desktop/mission12_agraviet/backend/mission12_agraviet/mission12_agraviet.csproj",
+  "expectedPackageFiles": [
+    "/Users/andrewgraviet/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/andrewgraviet/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/andrewgraviet/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/andrewgraviet/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/andrewgraviet/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/andrewgraviet/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
