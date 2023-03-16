@@ -25,3 +25,10 @@
 /Users/andrewgraviet/Desktop/mission12_agraviet/backend/mission12_agraviet/obj/Debug/net6.0/mission12_agraviet.pdb
 /Users/andrewgraviet/Desktop/mission12_agraviet/backend/mission12_agraviet/obj/Debug/net6.0/mission12_agraviet.genruntimeconfig.cache
 /Users/andrewgraviet/Desktop/mission12_agraviet/backend/mission12_agraviet/obj/Debug/net6.0/ref/mission12_agraviet.dll
+/Users/andrewgraviet/Desktop/mission12_agraviet/backend/mission12_agraviet/bin/Debug/net6.0/CollegeBasketballTeams.json
+/Users/andrewgraviet/Desktop/mission12_agraviet/backend/mission12_agraviet/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/andrewgraviet/Desktop/mission12_agraviet/backend/mission12_agraviet/bin/Debug/net6.0/System.Web.Cors.dll
+/Users/andrewgraviet/Desktop/mission12_agraviet/backend/mission12_agraviet/bin/Debug/net6.0/System.Net.Http.Formatting.dll
+/Users/andrewgraviet/Desktop/mission12_agraviet/backend/mission12_agraviet/bin/Debug/net6.0/System.Web.Http.dll
+/Users/andrewgraviet/Desktop/mission12_agraviet/backend/mission12_agraviet/bin/Debug/net6.0/System.Web.Http.Cors.dll
+/Users/andrewgraviet/Desktop/mission12_agraviet/backend/mission12_agraviet/bin/Debug/net6.0/Newtonsoft.Json.Bson.dll
